@@ -9,48 +9,48 @@ const HomePage = () => {
         </div>
 
         <div className="grid md:grid-cols-4 gap-3">
-          <div className="card bg-appcolor shadow-xl grid-cols-1 " >
+        <div className="card bg-appcolor shadow-xl grid-cols-1 cursor-pointer transition ease-in-out delay-150   hover:scale-105  duration-300 " >
             <div className="card-body  flex justify-center items-center md:m-3 ">
-              <p className="font-medium  text-base-content/70 text-xs text-white ">الشيخ عبد الباسط عبد الصمد</p>
+              <p className="  text-base-content/70 text-xs text-white font-semibold  ">الشيخ عبد الباسط عبد الصمد</p>
             </div>
           </div>
-          <div className="card bg-base-100 shadow-xl grid-cols-1">
+          <div className="card bg-appcolor shadow-xl grid-cols-1 cursor-pointer transition ease-in-out delay-150   hover:scale-105  duration-300 " >
             <div className="card-body  flex justify-center items-center md:m-3 ">
-              <p className="font-medium  text-base-content/70 text-xs ">الشيخ عبد الباسط عبد الصمد</p>
+              <p className="  text-base-content/70 text-xs text-white font-semibold  ">الشيخ عبد الباسط عبد الصمد</p>
             </div>
           </div>
-          <div className="card bg-base-100 shadow-xl grid-cols-1">
+          <div className="card bg-appcolor shadow-xl grid-cols-1 cursor-pointer transition ease-in-out delay-150   hover:scale-105  duration-300 " >
             <div className="card-body  flex justify-center items-center md:m-3 ">
-              <p className="font-medium  text-base-content/70 text-xs ">الشيخ عبد الباسط عبد الصمد</p>
+              <p className="  text-base-content/70 text-xs text-white font-semibold  ">الشيخ عبد الباسط عبد الصمد</p>
             </div>
           </div>
-          <div className="card bg-base-100 shadow-xl grid-cols-1">
+          <div className="card bg-appcolor shadow-xl grid-cols-1 cursor-pointer transition ease-in-out delay-150   hover:scale-105  duration-300 " >
             <div className="card-body  flex justify-center items-center md:m-3 ">
-              <p className="font-medium  text-base-content/70 text-xs ">الشيخ عبد الباسط عبد الصمد</p>
+              <p className="  text-base-content/70 text-xs text-white font-semibold  ">الشيخ عبد الباسط عبد الصمد</p>
             </div>
           </div>
-          <div className="card bg-base-100 shadow-xl grid-cols-1">
+          <div className="card bg-appcolor shadow-xl grid-cols-1 cursor-pointer transition ease-in-out delay-150   hover:scale-105  duration-300 " >
             <div className="card-body  flex justify-center items-center md:m-3 ">
-              <p className="font-medium  text-base-content/70 text-xs ">الشيخ عبد الباسط عبد الصمد</p>
+              <p className="  text-base-content/70 text-xs text-white font-semibold  ">الشيخ عبد الباسط عبد الصمد</p>
             </div>
           </div>
-          <div className="card bg-base-100 shadow-xl grid-cols-1">
+          <div className="card bg-appcolor shadow-xl grid-cols-1 cursor-pointer transition ease-in-out delay-150   hover:scale-105  duration-300 " >
             <div className="card-body  flex justify-center items-center md:m-3 ">
-              <p className="font-medium  text-base-content/70 text-xs ">الشيخ عبد الباسط عبد الصمد</p>
+              <p className="  text-base-content/70 text-xs text-white font-semibold  ">الشيخ عبد الباسط عبد الصمد</p>
             </div>
           </div>
-          <div className="card bg-base-100 shadow-xl grid-cols-1">
+          <div className="card bg-appcolor shadow-xl grid-cols-1 cursor-pointer transition ease-in-out delay-150   hover:scale-105  duration-300 " >
             <div className="card-body  flex justify-center items-center md:m-3 ">
-              <p className="font-medium  text-base-content/70 text-xs ">الشيخ عبد الباسط عبد الصمد</p>
+              <p className="  text-base-content/70 text-xs text-white font-semibold  ">الشيخ عبد الباسط عبد الصمد</p>
             </div>
           </div>
-          <div className="card bg-base-100 shadow-xl grid-cols-1">
+          <div className="card bg-appcolor shadow-xl grid-cols-1 cursor-pointer transition ease-in-out delay-150   hover:scale-105  duration-300 " >
             <div className="card-body  flex justify-center items-center md:m-3 ">
-              <p className="font-medium  text-base-content/70 text-xs ">الشيخ عبد الباسط عبد الصمد</p>
+              <p className="  text-base-content/70 text-xs text-white font-semibold  ">الشيخ عبد الباسط عبد الصمد</p>
             </div>
           </div>
         </div>
-          <span className="flex  items-center justify-center"><a href="" className="btn btn-outline btn-wide">المزيد</a></span>
+          <span className="flex  items-center justify-center "><a href="" className="btn btn-outline px-16 ">المزيد من القراء </a></span>
 
       </div>
     </>
